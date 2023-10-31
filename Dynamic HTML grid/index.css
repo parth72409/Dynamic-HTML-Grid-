@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playpen+Sans:wght@500&family=Poppins:wght@500&family=Raleway:ital,wght@0,200;0,300;0,500;0,900;1,300;1,400&family=Roboto:ital@1&display=swap');
+
+.section-heading{
+    font-family: 'Lato', sans-serif;
+}
+.main-div{
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    width: 18%;
+    margin: 10px;  
+  
+}
+.image-section{
+    width: 100%;
+    height: auto;
+}
+
+.product-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   padding: 0 4%;
+}
+.card-details{
+   
+    font-family: 'Lato', sans-serif;
+    
+   
+}
+
+.hhhhh1{
+    font-size: 20px;
+    margin: 2px;
+    margin-left: 10px;
+    color: gray; 
+}
+
+.product-brand{
+    font-size: 14px;
+    margin: 2px;
+    margin-left: 10px;
+    margin-top: 12px;
+    color: gray; 
+}
+.pricesss{
+    font-size: 18px;
+    margin: 2px;
+    margin-left: 10px;
+    margin-top: 12px;
+    color: rgb(26, 191, 197); 
+}
